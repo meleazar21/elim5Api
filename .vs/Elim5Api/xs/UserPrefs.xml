@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8F5B38DE-6C0A-4F56-9BAA-0530860C550C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Elim5Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Elim5Api/Startup.cs">
+    <Files>
+      <File FileName="Domain/Interfaces/IUserLogRepository.cs" Line="1" Column="1" />
+      <File FileName="Elim5Api/Controllers/UserLogController.cs" Line="33" Column="10" />
+      <File FileName="Negocio/UserLogBusiness.cs" Line="30" Column="17" />
+      <File FileName="DataAccess/Response/ResponseDto.cs" Line="13" Column="23" />
+      <File FileName="Elim5Api/Startup.cs" Line="21" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Elim5Api" expanded="True">
+            <Node name="Elim5Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/mac/Documents/Projects/Elim5Api/Negocio/UserLogBusiness.cs" relfile="Negocio/UserLogBusiness.cs" line="41" column="1" />
+      <Breakpoint file="/Users/mac/Documents/Projects/Elim5Api/Elim5Api/Controllers/UserLogController.cs" relfile="Elim5Api/Controllers/UserLogController.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

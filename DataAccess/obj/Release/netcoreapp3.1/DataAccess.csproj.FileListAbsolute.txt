@@ -1,0 +1,30 @@
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\emartinez\Desktop\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\DataAccess\obj\Release\netcoreapp3.1\DataAccess.genruntimeconfig.cache

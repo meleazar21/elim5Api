@@ -1,0 +1,28 @@
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Business.deps.json
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Business.dll
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Business.pdb
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.dll
+C:\Users\emartinez\Desktop\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.pdb
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Business.deps.json
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Business.dll
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Business.pdb
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.dll
+C:\Users\emartinez\Desktop\Elim5 Test\Api\Elim5Api\Negocio\obj\Release\netcoreapp3.1\Business.pdb
